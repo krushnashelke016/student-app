@@ -1,5 +1,3 @@
-# student-app
-
 # Student Portal
 
 A responsive student management and profile portal application built with HTML, CSS, and vanilla web technologies.
